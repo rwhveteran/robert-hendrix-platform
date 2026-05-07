@@ -5,7 +5,7 @@ import { Footer } from "@/components/ecosystem/footer"
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen bg-black text-white">
+    <main className="relative min-h-screen bg-black text-white overflow-x-hidden">
       <Navbar />
       <Hero />
       <ProjectsGrid />
