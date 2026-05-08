@@ -10,7 +10,7 @@ export default function AdvocacyFirstPage() {
       }}
     >
       <h1
-        style={{
+        style={{ 
           fontSize: "72px",
           fontWeight: "bold",
           marginBottom: "20px",
