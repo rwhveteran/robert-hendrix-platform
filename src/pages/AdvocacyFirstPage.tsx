@@ -5,7 +5,7 @@ export default function AdvocacyFirstPage() {
         minHeight: "100vh",
         background: "#050816",
         color: "white",
-        padding: "60px",
+        padding: "60px", 
         fontFamily: "Arial",
       }}
     >
